@@ -319,7 +319,7 @@ Ketik ${prefix}verify untuk memulai menggunakan bot.`
 			const isCmd = body.startsWith(prefix)
       const is = budy.slice(0).trim().split(/ +/).shift().toLowerCase()
 			mess = {
-  wait: '*☐* Silahkan tunggu',
+  wait: '*☐*  _otewe gak pakek rem_',
   success: '*☉* Berhasil',
   Public: '*☒* fitur dalam mode private sekarang hanya owner yang dapat menggunakan bot',
   ferr: 'Maaf sepertinya fitur sedang Error',
