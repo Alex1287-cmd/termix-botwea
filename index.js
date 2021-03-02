@@ -322,7 +322,7 @@ Ketik ${prefix}verify untuk memulai menggunakan bot.`
   wait: '*☐*  _otewe gak pakek rem_',
   success: '*☉* Berhasil',
   Public: '*☒* fitur dalam mode private sekarang hanya owner yang dapat menggunakan bot',
-  ferr: 'Maaf sepertinya fitur sedang Error',
+  ferr: 'Maaf sepertinya fitur ini sedang dalam tahap pengembang',
   limitend: 'Maaf limit kamu telah habis, silahkan lakukan pembelian ulang.',
   error: {
   stick: '*☒* Silakan ulangi beberapa saat lagi',
